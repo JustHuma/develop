@@ -1,7 +1,5 @@
 package ru.yandex.practicum.gym;
 
-import org.testng.annotations.Test;
-
 import static org.junit.jupiter.api.Assertions.*;
 import java.util.List;
 
