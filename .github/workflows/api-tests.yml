@@ -1,8 +1,0 @@
-name: Java Tests
-
-on:
-  pull_request:
-
-jobs:
-  build:
-    uses: yandex-praktikum/java-gym-master/.github/workflows/api-tests.yml@ci
